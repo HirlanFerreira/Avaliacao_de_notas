@@ -1,0 +1,31 @@
+.container {
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+
+.disciplina {}
+
+
+#disciplinas {}
+
+
+.nome {
+  border: none;
+}
+
+
+td {
+  border: 2px solid black;
+}
+
+
+button {
+  color: white;
+  background-color: black;
+  width: 60px;
+  height: 30px;
+  border-radius: 5px;
+}
