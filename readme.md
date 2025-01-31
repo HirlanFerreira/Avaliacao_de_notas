@@ -7,3 +7,12 @@
 [x] - comitar as mudanças
 [x] - subir as mudanças
 [x] - estilizar 
+
+
+[ ] - Adicione um cor de fundo para a página.
+[ ] - Adicione um arredondamento para o container.
+[ ] - Adicione um cor de fundo para o container.
+
+
+[ ] - Criar um array no javascript com as informações que existem na tabela.
+[ ] - Crie uma função de console.log e adicione no botão de salvar
